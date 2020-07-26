@@ -30,4 +30,3 @@ All the test images were properly detected and labeled. Few of the detections ar
 ```
 ## Acknowledgements
 * https://github.com/AlexeyAB/darknet
-* https://www.tensorflow.org/guide/keras/transfer_learning
