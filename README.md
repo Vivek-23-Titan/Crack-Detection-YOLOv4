@@ -3,7 +3,7 @@ Completed a computer vision assignment based on localizing and classifying diffe
 ## Dataset
 The entire dataset consists of 57 images having 3 different types of damages: crack, bullseye, and scratch. For training the YOLOv4 model, the dataset was divided into a 75:25 ratio i.e., 43 images in training data and remaining 14 images in the test dataset.
 ## Code
-Entire code is available in the [Juypter Notebook](https://github.com/Vivek-23-Titan/Crack-Detection-YOLOv4/blob/master/Crack_Detection_YOLOv4.ipynb) format. For further YOLOv4 details please refer https://github.com/AlexeyAB/darknet repository.
+Entire code is available in the [Juypter Notebook](https://github.com/Vivek-23-Titan/Crack-Detection-YOLOv4/blob/master/Crack_Detection_YOLOv4.ipynb) format. For further YOLOv4 details please refer [here](https://github.com/AlexeyAB/darknet).
 ## Results
 The training was done for approximately 2600 iterations. The training history graph is shown below.
 
@@ -28,3 +28,6 @@ All the test images were properly detected and labeled. Few of the detections ar
   year={2020}
 }
 ```
+## Acknowledgements
+* https://github.com/AlexeyAB/darknet
+* https://www.tensorflow.org/guide/keras/transfer_learning
