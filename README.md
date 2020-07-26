@@ -19,3 +19,13 @@ All the test images were properly detected and labeled. Few of the detections ar
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/29.png" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/46.png" width=400>
 ## Scratch
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/52.png" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/55.png" width=400>
+## Citation
+
+```
+@article{bochkovskiy2020yolov4,
+  title={{YOLOv4}: Optimal Speed and Accuracy of Object Detection},
+  author={Bochkovskiy, Alexey and Wang, Chien-Yao and Liao, Hong-Yuan Mark},
+  journal={arXiv preprint arXiv:2004.10934},
+  year={2020}
+}
+```
