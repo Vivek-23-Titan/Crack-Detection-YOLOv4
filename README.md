@@ -18,7 +18,7 @@ All the test images were properly detected and labeled. Few of the detections ar
 ### Bullseye
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/29.png" width=480> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/46.png" width=320>
 ### Scratch
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/52.png" width=450> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/55.png" width=350>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/52.png" width=500> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/55.png" width=300>
 ## Citation
 ```
 @article{bochkovskiy2020yolov4,
