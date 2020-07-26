@@ -4,4 +4,4 @@ Completed a computer vision assignment based on localizing and classifying diffe
 The entire dataset consists of 3 different types of damages: crack, bullseye, and scratch. For training the YOLOv4 model, the dataset was divided into a 75:25 ratio i.e., 43 images in training data and remaining 14 images in the test dataset.
 # Results
 The training was done for approximately 2600 epochs. The training history graph is shown below.
-<img src="https://raw.githubusercontent.com/https:/Vivek-23-Titan/Crack-Detection-YOLOv4/blob/master/images/Final_History.png" width=400>
+<img src="https://raw.githubusercontent.com/https:/Vivek-23-Titan/Crack-Detection-YOLOv4/images/Final_History.png" width=400>
