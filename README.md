@@ -14,7 +14,7 @@ The graph shows that the highest map score is 71.30%. After 1700 epochs, althoug
 ## Damage Detection
 All the test images were properly detected and labeled. Few of the detections are displayed below and rest are available in the [images](https://github.com/Vivek-23-Titan/Crack-Detection-YOLOv4/tree/master/images) folder.
 ### Crack
-<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/57.png" width=405> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/scratch1.png" width=395>
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/57.png" width=395> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/scratch1.png" width=405>
 ### Bullseye
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/29.png" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/46.png" width=400>
 ### Scratch
