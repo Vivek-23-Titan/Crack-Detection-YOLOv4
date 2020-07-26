@@ -9,7 +9,9 @@ The training was done for approximately 2600 epochs. The training history graph 
 The graph shows that the highest map score is 71.30%. After 1700 epochs, although the training loss continues to decrease, the map values start to fluctuate around 69%.
 * For detection results, map value of 69.21% with 65.08% IoU was used instead of map of 71.30% with 52.99% IoU for better bounding box detections.
 # Damage Detection
-## Crack Detection
+## Crack
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/57.png" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/scratch1.png" width=400>
 ## Bullseye
 <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/29.png" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/46.png" width=400>
+## Scratch
+<img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/52.png" width=400> <img src="https://raw.githubusercontent.com/Vivek-23-Titan/Crack-Detection-YOLOv4/master/images/55.png" width=400>
